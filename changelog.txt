@@ -1,4 +1,4 @@
 = 1.0 =
-Fecha de lanzamiento: 10 de Noviembre de 2025
+Fecha de lanzamiento: 11 de Noviembre de 2025
 
 * [Add] Primer release
