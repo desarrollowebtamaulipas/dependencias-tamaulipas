@@ -32,7 +32,7 @@
 			
 			<div class="col-sm-6 col-md-6 col-lg-3 mt-3 mb-3">
 				
-				<div class="item-tema h-100 d-flex flex-column text-center p-3">
+				<div class="item-tema h-100 d-flex flex-column text-center">
 				
 					<div class="mb-3">
 						<a href="<?php the_permalink(); ?>"><?php the_post_thumbnail( 'prensa', array( 'alt' => get_the_title(), 'class' => 'img-fluid' ) ); ?></a>

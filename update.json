@@ -1,7 +1,7 @@
 {
   "name": "Dependencias Tamaulipas",
   "slug": "dependencias-tamaulipas-main",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "download_url": "https://github.com/desarrollowebtamaulipas/dependencias-tamaulipas/archive/refs/heads/main.zip",
   "tested": "6.7.2",
   "requires": "5.9"
