@@ -1,0 +1,8 @@
+{
+  "name": "Dependencias Tamaulipas",
+  "slug": "dependencias-tamaulipas-master",
+  "version": "1.0",
+  "download_url": "https://github.com/desarrollowebtamaulipas/planteles-educativos/archive/refs/heads/master.zip",
+  "tested": "6.7.2",
+  "requires": "5.9"
+}
