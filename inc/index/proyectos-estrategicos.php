@@ -40,7 +40,7 @@
 				
 					<div class="flex-grow-1 d-flex flex-column justify-content-start">
 						<h4 class="color-primario mb-2"><?php the_title(); ?></h4> 
-						<p class="mb-0"><?php the_excerpt(); ?></p>
+						<p class="mb-0"><?php echo esc_html( get_the_excerpt() ); ?></p>
 					</div>
 					
 					<div class="mt-3">
