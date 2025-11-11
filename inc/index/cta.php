@@ -35,7 +35,7 @@
 				
             	<div class="bg-splash" style="background-image: url('<?php echo esc_url($background); ?>');" data-img-desktop="<?php echo esc_url($background); ?>"  data-img-mobile="<?php echo esc_url($img_mobile); ?>">
 	
-                	<div class="container-lg h-100 px-5">  
+                	<div class="container-lg h-100 px-5 py-3">  
                 		<div class="row h-100 text-white d-flex align-items-stretch align-items-lg-center justify-content-md-start justify-content-lg-start">
                     		<div class="col-sm-12 col-md-7 col-lg-6 my-5">
 								

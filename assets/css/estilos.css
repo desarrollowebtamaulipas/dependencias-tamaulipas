@@ -786,6 +786,23 @@ h6 {
 	margin-top: 20px;
 }
 
+
+/* Proyectos estratégicos */
+#proyectos-estrategicos .item-tema img{
+	border-radius: 10px;
+}
+
+#proyectos-estrategicos .item-tema h4{
+	color: var(--primario);
+	font-family: var(--font);
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: 24px;
+	margin: 10px 17px;
+}
+
+
 /* CTA */
 #cta-home {
 }
@@ -810,17 +827,18 @@ h6 {
 }
 
 #cta-home h3.subtitulo-cta {
-	font-size: clamp(16px, 2.5vw, 24px);
+	font-size: clamp(18px, 2.5vw, 24px);
 	font-weight: 500;
+	line-height: 1.4em
 }
 
 #cta-home .content-cta {
-	font-size: clamp(12px, 1.5vw, 14px);
+	font-size: clamp(14px, 1.5vw, 16px);
 	font-weight: 400;
 	letter-spacing: -0.014px;
 }
 #cta-home .btn:hover {
-	text-decoration: underline;
+	text-decoration: none;
 	color: var(--primario-o) !important;
 }
 
