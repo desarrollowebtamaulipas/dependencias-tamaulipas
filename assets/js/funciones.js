@@ -163,44 +163,6 @@ jQuery(document).ready(function($) {
 	//----------------------------//
 	//          Swiper JS         //
 	//----------------------------//
-	
-	const swiperHeroVideo = new Swiper("#splash-home", {
-		//spaceBetween: 30,
-		effect: "fade",
-		centeredSlides: true,
-		loop: true,
-		// autoplay: {
-		// 	delay: 5000
-		// },
-		pagination: {
-			el: ".swiper-pagination",
-			clickable: true,
-		},
-		    navigation: {
-      nextEl: ".swiper-button-next",
-      prevEl: ".swiper-button-prev",
-    	},
-    	autoHeight: true,
-	});
-
-	
-	const swiperCta = new Swiper("#cta-home", {
-		effect: "fade",
-		centeredSlides: true,
-		loop: true,
-		autoplay: {
-			delay: 5500
-		},
-		pagination: {
-			el: ".swiper-pagination",
-			clickable: true,
-		},
-		    navigation: {
-      nextEl: ".swiper-button-next",
-      prevEl: ".swiper-button-prev",
-    	},
-    	autoHeight: true,
-	});
 
 	// Swiper
 	const swiperHero = new Swiper('.hero.swiper', {
