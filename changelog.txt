@@ -1,7 +1,8 @@
-= 1.1.0 =
+= 1.1.1 =
 Fecha de lanzamiento: 13 de noviembre de 2025
 
 * [Add] Template: Listado sub-páginas
+* [Add] Template: Sin sidebar
 
 = 1.0.5 =
 Fecha de lanzamiento: 11 de noviembre de 2025
