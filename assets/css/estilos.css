@@ -1249,18 +1249,21 @@ article.article-content .swiper-gallery {
 }
 
 /* Paginación */
-#navegation {
-	padding-top: 35px;
+#navegation{
+  padding-top: 35px;
 }
 
-#navegation .page-link {
-	color: var(--primario);
+.page-link,
+.page-link:hover,
+.page-link:active,
+.page-link:focus{
+  color: var(--primario);
 }
 
-#navegation .active .page-link {
-	color: #fff;
-	background-color: var(--primario);
-	border-color: var(--primario);
+.active .page-link{
+  color: #FFF;
+  background-color: var(--primario);
+  border-color: var(--primario);
 }
 
 /* Sidebar */
