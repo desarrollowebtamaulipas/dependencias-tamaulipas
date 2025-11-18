@@ -50,7 +50,7 @@
 							echo '<h4>Información relacionada</h4>';
 							
 							echo '<table class="table">';
-							echo '<thead><tr><td>Sección</td><td></td></tr></thead><tbody>';
+							echo '<thead><tr><td>Sección</td><td style="width:170px"></td></tr></thead><tbody>';
 							
 							while ( $child_pages->have_posts() ) : $child_pages->the_post();
 								echo '<tr>';
