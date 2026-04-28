@@ -1482,7 +1482,7 @@ a img.aligncenter {
 
 @media (min-width: 992px) and (max-width: 1199px) {
 	.menu-container li a {
-		padding: 10px 16px 10px 16px;
+		padding: 10px 14px 10px 8px;
 		font-size: 15px;
 	}
 
